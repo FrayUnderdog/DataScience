@@ -1,0 +1,8 @@
+HW4 Regression + KNN Report
+---------------------------------------
+Best k: 9
+Best accuracy: 0.6978
+
+Files generated:
+- hw4_test_with_bp.csv: TEST dataset with predicted/final 'BloodPressure' values.
+- knn_k_vs_accuracy.csv: Accuracy for k=1..19.
