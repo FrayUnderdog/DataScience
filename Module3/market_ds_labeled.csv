@@ -1,0 +1,201 @@
+Age,Income,Spending,cluster,cluster_name
+19,15,39,2,Aspirational Spenders（低收入高消费）
+21,15,81,2,Aspirational Spenders（低收入高消费）
+20,16,6,5,Budget-Minded Savers（低消费人群）
+23,16,77,2,Aspirational Spenders（低收入高消费）
+31,17,40,5,Budget-Minded Savers（低消费人群）
+22,17,76,2,Aspirational Spenders（低收入高消费）
+35,18,6,5,Budget-Minded Savers（低消费人群）
+23,18,94,2,Aspirational Spenders（低收入高消费）
+64,19,3,5,Budget-Minded Savers（低消费人群）
+30,19,72,2,Aspirational Spenders（低收入高消费）
+67,19,14,5,Budget-Minded Savers（低消费人群）
+35,19,99,2,Aspirational Spenders（低收入高消费）
+58,20,15,5,Budget-Minded Savers（低消费人群）
+24,20,77,2,Aspirational Spenders（低收入高消费）
+37,20,13,5,Budget-Minded Savers（低消费人群）
+22,20,79,2,Aspirational Spenders（低收入高消费）
+35,21,35,5,Budget-Minded Savers（低消费人群）
+20,21,66,2,Aspirational Spenders（低收入高消费）
+52,23,29,5,Budget-Minded Savers（低消费人群）
+35,23,98,2,Aspirational Spenders（低收入高消费）
+35,24,35,5,Budget-Minded Savers（低消费人群）
+25,24,73,2,Aspirational Spenders（低收入高消费）
+46,25,5,5,Budget-Minded Savers（低消费人群）
+31,25,73,2,Aspirational Spenders（低收入高消费）
+54,28,14,5,Budget-Minded Savers（低消费人群）
+29,28,82,2,Aspirational Spenders（低收入高消费）
+45,28,32,5,Budget-Minded Savers（低消费人群）
+35,28,61,2,Aspirational Spenders（低收入高消费）
+40,29,31,5,Budget-Minded Savers（低消费人群）
+23,29,87,2,Aspirational Spenders（低收入高消费）
+60,30,4,5,Budget-Minded Savers（低消费人群）
+21,30,73,2,Aspirational Spenders（低收入高消费）
+53,33,4,5,Budget-Minded Savers（低消费人群）
+18,33,92,2,Aspirational Spenders（低收入高消费）
+49,33,14,5,Budget-Minded Savers（低消费人群）
+21,33,81,2,Aspirational Spenders（低收入高消费）
+42,34,17,5,Budget-Minded Savers（低消费人群）
+30,34,73,2,Aspirational Spenders（低收入高消费）
+36,37,26,5,Budget-Minded Savers（低消费人群）
+20,37,75,2,Aspirational Spenders（低收入高消费）
+65,38,35,0,Senior Savers（年长理性消费）
+24,38,92,2,Aspirational Spenders（低收入高消费）
+48,39,36,5,Budget-Minded Savers（低消费人群）
+31,39,61,2,Aspirational Spenders（低收入高消费）
+49,39,28,5,Budget-Minded Savers（低消费人群）
+24,39,65,2,Aspirational Spenders（低收入高消费）
+50,40,55,0,Senior Savers（年长理性消费）
+27,40,47,3,Balanced Regulars（均衡常规人群）
+29,40,42,3,Balanced Regulars（均衡常规人群）
+31,40,42,3,Balanced Regulars（均衡常规人群）
+49,42,52,0,Senior Savers（年长理性消费）
+33,42,60,2,Aspirational Spenders（低收入高消费）
+31,43,54,3,Balanced Regulars（均衡常规人群）
+59,43,60,0,Senior Savers（年长理性消费）
+50,43,45,0,Senior Savers（年长理性消费）
+47,43,41,0,Senior Savers（年长理性消费）
+51,44,50,0,Senior Savers（年长理性消费）
+69,44,46,0,Senior Savers（年长理性消费）
+27,46,51,3,Balanced Regulars（均衡常规人群）
+53,46,46,0,Senior Savers（年长理性消费）
+70,46,56,0,Senior Savers（年长理性消费）
+19,46,55,3,Balanced Regulars（均衡常规人群）
+67,47,52,0,Senior Savers（年长理性消费）
+54,47,59,0,Senior Savers（年长理性消费）
+63,48,51,0,Senior Savers（年长理性消费）
+18,48,59,3,Balanced Regulars（均衡常规人群）
+43,48,50,0,Senior Savers（年长理性消费）
+68,48,48,0,Senior Savers（年长理性消费）
+19,48,59,3,Balanced Regulars（均衡常规人群）
+32,48,47,3,Balanced Regulars（均衡常规人群）
+70,49,55,0,Senior Savers（年长理性消费）
+47,49,42,0,Senior Savers（年长理性消费）
+60,50,49,0,Senior Savers（年长理性消费）
+60,50,56,0,Senior Savers（年长理性消费）
+59,54,47,0,Senior Savers（年长理性消费）
+26,54,54,3,Balanced Regulars（均衡常规人群）
+45,54,53,0,Senior Savers（年长理性消费）
+40,54,48,3,Balanced Regulars（均衡常规人群）
+23,54,52,3,Balanced Regulars（均衡常规人群）
+49,54,42,0,Senior Savers（年长理性消费）
+57,54,51,0,Senior Savers（年长理性消费）
+38,54,55,3,Balanced Regulars（均衡常规人群）
+67,54,41,0,Senior Savers（年长理性消费）
+46,54,44,0,Senior Savers（年长理性消费）
+21,54,57,3,Balanced Regulars（均衡常规人群）
+48,54,46,0,Senior Savers（年长理性消费）
+55,57,58,0,Senior Savers（年长理性消费）
+22,57,55,3,Balanced Regulars（均衡常规人群）
+34,58,60,3,Balanced Regulars（均衡常规人群）
+50,58,46,0,Senior Savers（年长理性消费）
+68,59,55,0,Senior Savers（年长理性消费）
+18,59,41,3,Balanced Regulars（均衡常规人群）
+48,60,49,0,Senior Savers（年长理性消费）
+40,60,40,3,Balanced Regulars（均衡常规人群）
+32,60,42,3,Balanced Regulars（均衡常规人群）
+24,60,52,3,Balanced Regulars（均衡常规人群）
+47,60,47,0,Senior Savers（年长理性消费）
+27,60,50,3,Balanced Regulars（均衡常规人群）
+48,61,42,0,Senior Savers（年长理性消费）
+20,61,49,3,Balanced Regulars（均衡常规人群）
+23,62,41,3,Balanced Regulars（均衡常规人群）
+49,62,48,0,Senior Savers（年长理性消费）
+67,62,59,0,Senior Savers（年长理性消费）
+26,62,55,3,Balanced Regulars（均衡常规人群）
+49,62,56,0,Senior Savers（年长理性消费）
+21,62,42,3,Balanced Regulars（均衡常规人群）
+66,63,50,0,Senior Savers（年长理性消费）
+54,63,46,0,Senior Savers（年长理性消费）
+68,63,43,0,Senior Savers（年长理性消费）
+66,63,48,0,Senior Savers（年长理性消费）
+65,63,52,0,Senior Savers（年长理性消费）
+19,63,54,3,Balanced Regulars（均衡常规人群）
+38,64,42,3,Balanced Regulars（均衡常规人群）
+19,64,46,3,Balanced Regulars（均衡常规人群）
+18,65,48,3,Balanced Regulars（均衡常规人群）
+19,65,50,3,Balanced Regulars（均衡常规人群）
+63,65,43,0,Senior Savers（年长理性消费）
+49,65,59,0,Senior Savers（年长理性消费）
+51,67,43,0,Senior Savers（年长理性消费）
+50,67,57,0,Senior Savers（年长理性消费）
+27,67,56,3,Balanced Regulars（均衡常规人群）
+38,67,40,3,Balanced Regulars（均衡常规人群）
+40,69,58,3,Balanced Regulars（均衡常规人群）
+39,69,91,1,Affluent Big Spenders（高收入高消费）
+23,70,29,3,Balanced Regulars（均衡常规人群）
+31,70,77,1,Affluent Big Spenders（高收入高消费）
+43,71,35,4,Frugal Affluents（高收入理性消费）
+40,71,95,1,Affluent Big Spenders（高收入高消费）
+59,71,11,4,Frugal Affluents（高收入理性消费）
+38,71,75,1,Affluent Big Spenders（高收入高消费）
+47,71,9,4,Frugal Affluents（高收入理性消费）
+39,71,75,1,Affluent Big Spenders（高收入高消费）
+25,72,34,3,Balanced Regulars（均衡常规人群）
+31,72,71,1,Affluent Big Spenders（高收入高消费）
+20,73,5,3,Balanced Regulars（均衡常规人群）
+29,73,88,1,Affluent Big Spenders（高收入高消费）
+44,73,7,4,Frugal Affluents（高收入理性消费）
+32,73,73,1,Affluent Big Spenders（高收入高消费）
+19,74,10,3,Balanced Regulars（均衡常规人群）
+35,74,72,1,Affluent Big Spenders（高收入高消费）
+57,75,5,4,Frugal Affluents（高收入理性消费）
+32,75,93,1,Affluent Big Spenders（高收入高消费）
+28,76,40,3,Balanced Regulars（均衡常规人群）
+32,76,87,1,Affluent Big Spenders（高收入高消费）
+25,77,12,3,Balanced Regulars（均衡常规人群）
+28,77,97,1,Affluent Big Spenders（高收入高消费）
+48,77,36,4,Frugal Affluents（高收入理性消费）
+32,77,74,1,Affluent Big Spenders（高收入高消费）
+34,78,22,4,Frugal Affluents（高收入理性消费）
+34,78,90,1,Affluent Big Spenders（高收入高消费）
+43,78,17,4,Frugal Affluents（高收入理性消费）
+39,78,88,1,Affluent Big Spenders（高收入高消费）
+44,78,20,4,Frugal Affluents（高收入理性消费）
+38,78,76,1,Affluent Big Spenders（高收入高消费）
+47,78,16,4,Frugal Affluents（高收入理性消费）
+27,78,89,1,Affluent Big Spenders（高收入高消费）
+37,78,1,4,Frugal Affluents（高收入理性消费）
+30,78,78,1,Affluent Big Spenders（高收入高消费）
+34,78,1,4,Frugal Affluents（高收入理性消费）
+30,78,73,1,Affluent Big Spenders（高收入高消费）
+56,79,35,0,Senior Savers（年长理性消费）
+29,79,83,1,Affluent Big Spenders（高收入高消费）
+19,81,5,3,Balanced Regulars（均衡常规人群）
+31,81,93,1,Affluent Big Spenders（高收入高消费）
+50,85,26,4,Frugal Affluents（高收入理性消费）
+36,85,75,1,Affluent Big Spenders（高收入高消费）
+42,86,20,4,Frugal Affluents（高收入理性消费）
+33,86,95,1,Affluent Big Spenders（高收入高消费）
+36,87,27,4,Frugal Affluents（高收入理性消费）
+32,87,63,1,Affluent Big Spenders（高收入高消费）
+40,87,13,4,Frugal Affluents（高收入理性消费）
+28,87,75,1,Affluent Big Spenders（高收入高消费）
+36,87,10,4,Frugal Affluents（高收入理性消费）
+36,87,92,1,Affluent Big Spenders（高收入高消费）
+52,88,13,4,Frugal Affluents（高收入理性消费）
+30,88,86,1,Affluent Big Spenders（高收入高消费）
+58,88,15,4,Frugal Affluents（高收入理性消费）
+27,88,69,1,Affluent Big Spenders（高收入高消费）
+59,93,14,4,Frugal Affluents（高收入理性消费）
+35,93,90,1,Affluent Big Spenders（高收入高消费）
+37,97,32,4,Frugal Affluents（高收入理性消费）
+32,97,86,1,Affluent Big Spenders（高收入高消费）
+46,98,15,4,Frugal Affluents（高收入理性消费）
+29,98,88,1,Affluent Big Spenders（高收入高消费）
+41,99,39,4,Frugal Affluents（高收入理性消费）
+30,99,97,1,Affluent Big Spenders（高收入高消费）
+54,101,24,4,Frugal Affluents（高收入理性消费）
+28,101,68,1,Affluent Big Spenders（高收入高消费）
+41,103,17,4,Frugal Affluents（高收入理性消费）
+36,103,85,1,Affluent Big Spenders（高收入高消费）
+34,103,23,4,Frugal Affluents（高收入理性消费）
+32,103,69,1,Affluent Big Spenders（高收入高消费）
+33,113,8,4,Frugal Affluents（高收入理性消费）
+38,113,91,1,Affluent Big Spenders（高收入高消费）
+47,120,16,4,Frugal Affluents（高收入理性消费）
+35,120,79,1,Affluent Big Spenders（高收入高消费）
+45,126,28,4,Frugal Affluents（高收入理性消费）
+32,126,74,1,Affluent Big Spenders（高收入高消费）
+32,137,18,4,Frugal Affluents（高收入理性消费）
+30,137,83,1,Affluent Big Spenders（高收入高消费）

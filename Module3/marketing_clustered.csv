@@ -1,0 +1,201 @@
+Age,Income,Spending,cluster,cluster_name
+19,15,39,2,Aspirational Spenders
+21,15,81,2,Aspirational Spenders
+20,16,6,5,Budget-Minded Savers
+23,16,77,2,Aspirational Spenders
+31,17,40,5,Budget-Minded Savers
+22,17,76,2,Aspirational Spenders
+35,18,6,5,Budget-Minded Savers
+23,18,94,2,Aspirational Spenders
+64,19,3,5,Budget-Minded Savers
+30,19,72,2,Aspirational Spenders
+67,19,14,5,Budget-Minded Savers
+35,19,99,2,Aspirational Spenders
+58,20,15,5,Budget-Minded Savers
+24,20,77,2,Aspirational Spenders
+37,20,13,5,Budget-Minded Savers
+22,20,79,2,Aspirational Spenders
+35,21,35,5,Budget-Minded Savers
+20,21,66,2,Aspirational Spenders
+52,23,29,5,Budget-Minded Savers
+35,23,98,2,Aspirational Spenders
+35,24,35,5,Budget-Minded Savers
+25,24,73,2,Aspirational Spenders
+46,25,5,5,Budget-Minded Savers
+31,25,73,2,Aspirational Spenders
+54,28,14,5,Budget-Minded Savers
+29,28,82,2,Aspirational Spenders
+45,28,32,5,Budget-Minded Savers
+35,28,61,2,Aspirational Spenders
+40,29,31,5,Budget-Minded Savers
+23,29,87,2,Aspirational Spenders
+60,30,4,5,Budget-Minded Savers
+21,30,73,2,Aspirational Spenders
+53,33,4,5,Budget-Minded Savers
+18,33,92,2,Aspirational Spenders
+49,33,14,5,Budget-Minded Savers
+21,33,81,2,Aspirational Spenders
+42,34,17,5,Budget-Minded Savers
+30,34,73,2,Aspirational Spenders
+36,37,26,5,Budget-Minded Savers
+20,37,75,2,Aspirational Spenders
+65,38,35,0,Senior Savers
+24,38,92,2,Aspirational Spenders
+48,39,36,5,Budget-Minded Savers
+31,39,61,2,Aspirational Spenders
+49,39,28,5,Budget-Minded Savers
+24,39,65,2,Aspirational Spenders
+50,40,55,0,Senior Savers
+27,40,47,3,Balanced Regulars
+29,40,42,3,Balanced Regulars
+31,40,42,3,Balanced Regulars
+49,42,52,0,Senior Savers
+33,42,60,2,Aspirational Spenders
+31,43,54,3,Balanced Regulars
+59,43,60,0,Senior Savers
+50,43,45,0,Senior Savers
+47,43,41,0,Senior Savers
+51,44,50,0,Senior Savers
+69,44,46,0,Senior Savers
+27,46,51,3,Balanced Regulars
+53,46,46,0,Senior Savers
+70,46,56,0,Senior Savers
+19,46,55,3,Balanced Regulars
+67,47,52,0,Senior Savers
+54,47,59,0,Senior Savers
+63,48,51,0,Senior Savers
+18,48,59,3,Balanced Regulars
+43,48,50,0,Senior Savers
+68,48,48,0,Senior Savers
+19,48,59,3,Balanced Regulars
+32,48,47,3,Balanced Regulars
+70,49,55,0,Senior Savers
+47,49,42,0,Senior Savers
+60,50,49,0,Senior Savers
+60,50,56,0,Senior Savers
+59,54,47,0,Senior Savers
+26,54,54,3,Balanced Regulars
+45,54,53,0,Senior Savers
+40,54,48,3,Balanced Regulars
+23,54,52,3,Balanced Regulars
+49,54,42,0,Senior Savers
+57,54,51,0,Senior Savers
+38,54,55,3,Balanced Regulars
+67,54,41,0,Senior Savers
+46,54,44,0,Senior Savers
+21,54,57,3,Balanced Regulars
+48,54,46,0,Senior Savers
+55,57,58,0,Senior Savers
+22,57,55,3,Balanced Regulars
+34,58,60,3,Balanced Regulars
+50,58,46,0,Senior Savers
+68,59,55,0,Senior Savers
+18,59,41,3,Balanced Regulars
+48,60,49,0,Senior Savers
+40,60,40,3,Balanced Regulars
+32,60,42,3,Balanced Regulars
+24,60,52,3,Balanced Regulars
+47,60,47,0,Senior Savers
+27,60,50,3,Balanced Regulars
+48,61,42,0,Senior Savers
+20,61,49,3,Balanced Regulars
+23,62,41,3,Balanced Regulars
+49,62,48,0,Senior Savers
+67,62,59,0,Senior Savers
+26,62,55,3,Balanced Regulars
+49,62,56,0,Senior Savers
+21,62,42,3,Balanced Regulars
+66,63,50,0,Senior Savers
+54,63,46,0,Senior Savers
+68,63,43,0,Senior Savers
+66,63,48,0,Senior Savers
+65,63,52,0,Senior Savers
+19,63,54,3,Balanced Regulars
+38,64,42,3,Balanced Regulars
+19,64,46,3,Balanced Regulars
+18,65,48,3,Balanced Regulars
+19,65,50,3,Balanced Regulars
+63,65,43,0,Senior Savers
+49,65,59,0,Senior Savers
+51,67,43,0,Senior Savers
+50,67,57,0,Senior Savers
+27,67,56,3,Balanced Regulars
+38,67,40,3,Balanced Regulars
+40,69,58,3,Balanced Regulars
+39,69,91,1,Affluent Big Spenders
+23,70,29,3,Balanced Regulars
+31,70,77,1,Affluent Big Spenders
+43,71,35,4,Frugal Affluents
+40,71,95,1,Affluent Big Spenders
+59,71,11,4,Frugal Affluents
+38,71,75,1,Affluent Big Spenders
+47,71,9,4,Frugal Affluents
+39,71,75,1,Affluent Big Spenders
+25,72,34,3,Balanced Regulars
+31,72,71,1,Affluent Big Spenders
+20,73,5,3,Balanced Regulars
+29,73,88,1,Affluent Big Spenders
+44,73,7,4,Frugal Affluents
+32,73,73,1,Affluent Big Spenders
+19,74,10,3,Balanced Regulars
+35,74,72,1,Affluent Big Spenders
+57,75,5,4,Frugal Affluents
+32,75,93,1,Affluent Big Spenders
+28,76,40,3,Balanced Regulars
+32,76,87,1,Affluent Big Spenders
+25,77,12,3,Balanced Regulars
+28,77,97,1,Affluent Big Spenders
+48,77,36,4,Frugal Affluents
+32,77,74,1,Affluent Big Spenders
+34,78,22,4,Frugal Affluents
+34,78,90,1,Affluent Big Spenders
+43,78,17,4,Frugal Affluents
+39,78,88,1,Affluent Big Spenders
+44,78,20,4,Frugal Affluents
+38,78,76,1,Affluent Big Spenders
+47,78,16,4,Frugal Affluents
+27,78,89,1,Affluent Big Spenders
+37,78,1,4,Frugal Affluents
+30,78,78,1,Affluent Big Spenders
+34,78,1,4,Frugal Affluents
+30,78,73,1,Affluent Big Spenders
+56,79,35,0,Senior Savers
+29,79,83,1,Affluent Big Spenders
+19,81,5,3,Balanced Regulars
+31,81,93,1,Affluent Big Spenders
+50,85,26,4,Frugal Affluents
+36,85,75,1,Affluent Big Spenders
+42,86,20,4,Frugal Affluents
+33,86,95,1,Affluent Big Spenders
+36,87,27,4,Frugal Affluents
+32,87,63,1,Affluent Big Spenders
+40,87,13,4,Frugal Affluents
+28,87,75,1,Affluent Big Spenders
+36,87,10,4,Frugal Affluents
+36,87,92,1,Affluent Big Spenders
+52,88,13,4,Frugal Affluents
+30,88,86,1,Affluent Big Spenders
+58,88,15,4,Frugal Affluents
+27,88,69,1,Affluent Big Spenders
+59,93,14,4,Frugal Affluents
+35,93,90,1,Affluent Big Spenders
+37,97,32,4,Frugal Affluents
+32,97,86,1,Affluent Big Spenders
+46,98,15,4,Frugal Affluents
+29,98,88,1,Affluent Big Spenders
+41,99,39,4,Frugal Affluents
+30,99,97,1,Affluent Big Spenders
+54,101,24,4,Frugal Affluents
+28,101,68,1,Affluent Big Spenders
+41,103,17,4,Frugal Affluents
+36,103,85,1,Affluent Big Spenders
+34,103,23,4,Frugal Affluents
+32,103,69,1,Affluent Big Spenders
+33,113,8,4,Frugal Affluents
+38,113,91,1,Affluent Big Spenders
+47,120,16,4,Frugal Affluents
+35,120,79,1,Affluent Big Spenders
+45,126,28,4,Frugal Affluents
+32,126,74,1,Affluent Big Spenders
+32,137,18,4,Frugal Affluents
+30,137,83,1,Affluent Big Spenders
